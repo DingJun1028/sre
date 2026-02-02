@@ -52,7 +52,7 @@
         "@anthropic-ai/sdk": "^0.39.0",
         "@aws-sdk/client-bedrock-runtime": "^3.826.0",
         "@aws-sdk/client-s3": "^3.826.0",
-        "@aws-sdk/client-secrets-manager": "^3.826.0",
+        "@aws-sdk/client-secrets-manager": "^3.894.0",
         "@google-cloud/vertexai": "^1.7.0",
         "@google/generative-ai": "^0.14.1",
         "@huggingface/inference": "^2.8.0",
